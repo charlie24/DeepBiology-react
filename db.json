@@ -1,0 +1,124 @@
+{
+  "clases": [
+    {
+      "id": 1,
+      "titulo": "Músculos",
+      "link": "https://sketchfab.com/models/e402d3d541eb4b199c57d5410f5d3c57/embed?autostart=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1",
+      "descripcion": "Conjunto de músculos..."
+    },
+    {
+      "id": 2,
+      "titulo": "Anatomía",
+      "link": "https://sketchfab.com/models/0e9ade8d5f9443d39abd44fb05e1608d/embed?autostart=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1",
+      "descripcion": "Descripción de la anatomía..."
+    },
+    {
+      "id": 3,
+      "titulo": "Esqueleto",
+      "link": "https://sketchfab.com/models/ee87f94159cf4767b1977659db3fb7aa/embed?autostart=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1",
+      "descripcion": "Conjunto de huesos del esqueleto..."
+    },
+    {
+      "id": 4,
+      "titulo": "Célula",
+      "link": "https://sketchfab.com/models/b7d84e5f2d5e411fbb195ab2742f2256/embed?autostart=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1",
+      "descripcion": "Morfología de la célula..."
+    },
+    {
+      "id": 5,
+      "titulo": "Anatomía de la cabeza",
+      "link": "https://sketchfab.com/models/b018e3f215c14be6ab5c52e5371c3ba5/embed?autostart=0&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=1&amp;ui_watermark_link=1",
+      "descripcion": "Músculos de la cabeza..."
+    },
+    {
+      "id": 6,
+      "titulo": "Sistema digestivo",
+      "link": "https://sketchfab.com/models/3a920101c4304eacaa3a422faacfc660/embed?autostart=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1",
+      "descripcion": "Sistema digestivo, sus partes..."
+    },
+    {
+      "id": 7,
+      "titulo": "El oído",
+      "link": "https://sketchfab.com/models/4f5438fc9337454587ec4a2c30c8c42f/embed?autostart=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1",
+      "descripcion": "Corte transversal del oído..."
+    },
+    {
+      "id": 8,
+      "titulo": "Los cromosomas",
+      "link": "https://sketchfab.com/models/cc33bb1ebe6141b08d0d06f1bbebc2b7/embed?autostart=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1",
+      "descripcion": "Estructura del cromosoma..."
+    },
+    {
+      "id": 9,
+      "titulo": "El cerebro",
+      "link": "https://sketchfab.com/models/d64608a3978b47d8a39c5a15795ca8c4/embed?autostart=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1",
+      "descripcion": "Áreas del cerebro..."
+    },
+    {
+      "id": 10,
+      "titulo": "La columna",
+      "link": "https://sketchfab.com/models/bcd9eee09ce044ef98a69c315aa792e2/embed?autostart=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1",
+      "descripcion": "Columna humana..."
+    },
+    {
+      "id": 11,
+      "titulo": "El corazón",
+      "link": "https://sketchfab.com/models/2aa1d800efea4d59838bf8ca8d2fc113/embed?autostart=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1",
+      "descripcion": "Morfología del corazón..."
+    },
+    {
+      "id": 12,
+      "titulo": "La vista",
+      "link": "https://sketchfab.com/models/52b3facc775a48fbb04ea8f5de39f073/embed?autostart=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1",
+      "descripcion": "Anatomía del ojo..."
+    },
+    {
+      "id": 13,
+      "titulo": "La piel",
+      "link": "https://sketchfab.com/models/56c98c3710d94360a3481dc81aa4910f/embed?autostart=0&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1",
+      "descripcion": "Morfología de la piel..."
+    }
+  ],
+  "comentarios": [
+    {
+      "cuerpo": "interesante tema",
+      "claseId": "2",
+      "id": 14
+    },
+    {
+      "cuerpo": "interesante",
+      "claseId": "2",
+      "id": 18
+    },
+    {
+      "cuerpo": "muy didáctico",
+      "claseId": "3",
+      "id": 20
+    },
+    {
+      "cuerpo": "Wow! tan interesante y complejo ",
+      "claseId": "9",
+      "id": 24
+    },
+    {
+      "cuerpo": "Increíble los diferentes músculos de este sistema",
+      "claseId": "1",
+      "id": 25
+    },
+    {
+      "cuerpo": "Curso interesante",
+      "claseId": "3",
+      "id": 26
+    },
+    {
+      "cuerpo": "Cromosomas",
+      "claseId": "8",
+      "id": 27
+    },
+    {
+      "cuerpo": "Muy didáctico",
+      "claseId": "12",
+      "id": 28
+    }
+  ]
+}
