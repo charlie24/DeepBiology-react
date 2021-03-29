@@ -30,16 +30,18 @@ const  Home=()=> {
       
         
         <div className="container pt-4">
-            <div className="input-group mb-3" style={{width:"400px"}}>
-                <input type="text" className="form-control" 
+           
+            <div className="input-group  mb-4 float-right">
+                <input type="text" className="form-control col-4 offset-8 buscador" 
                 placeholder="Busca una clase..." 
-                style={{borderRadius:"20px", padding:"8px 10px"}}
+                style={{borderRadius:"19px", padding:"11px 19px",width:'350px',
+                background:'#ECECEC',border:'none'}}
                 onChange={e=>setWord(e.target.value)} >
               
                 </input> 
             </div>
 
-            <div className="row ">
+            <div className="row d-flex justify-content-center">
              
              {
                  (isLoading)? <Loader/>:

@@ -16,11 +16,7 @@ const Clase=()=> {
     const [isLoading, setIsLoading] = useState(true)
     
 
-    useEffect(()=>{
-
-        cargarData()
-        cargaMsjes()
-      },[id]);
+   
   
 
    const enviarMsje=async (e)=>{
@@ -45,27 +41,38 @@ const Clase=()=> {
          
    }
 
-      const cargarData=async ()=>{
-          const res= await fetch(`http://localhost:3000/clases/${id}`);
-          const data=await res.json();
-        //   console.log(data);
-           setClase(data);
-            setIsLoading(false)
-      }
+   const cargarData=async ()=>{
+    const res= await fetch(`http://localhost:3000/clases/${id}`);
+    const data=await res.json();
+  //   console.log(data);
+     setClase(data);
+      setIsLoading(false)
+}
 
-      const cargaMsjes= async()=>{
-        const res = await fetch(`http://localhost:3000/comentarios?claseId=${id}`)
-        const data= await res.json();
-        // console.log(data);
-        setComentarios(data);
-      }
+const cargaMsjes= async()=>{
+  const res = await fetch(`http://localhost:3000/comentarios?claseId=${id}`)
+  const data= await res.json();
+  // console.log(data);
+  setComentarios(data);
+}
+      
+
+       useEffect(()=>{
+       
+        cargarData()
+        cargaMsjes()
+      },[]);
+
     return (
         <>
        
         <div className="container-fluid mt-4">
         <div className="row ">
             <div className="col-8 overflow-auto" >
-             { isLoading? <Loader/>: <Video id={id} />}
+             { 
+            //  isLoading? <Loader/>: 
+             <Video id={id} />
+             }
            
            {
                comentarios.map((co,idx)=>(
@@ -76,8 +83,14 @@ const Clase=()=> {
          
             </div>
             <div className="col-4 overflow-hidden">
-                <h1>{clase.titulo} </h1>
-                <p>{clase.descripcion}</p>
+                <h1>
+                  {/* {clase.titulo}  */}
+                  Músculos de la cabeza
+                  </h1>
+                <p>
+                  {/* {clase.descripcion} */}
+                  El conjunto de músculos de la cabeza...
+                  </p>
             
             <hr/>
             <Descargar desc={clase.descripcion}/>

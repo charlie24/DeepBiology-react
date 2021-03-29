@@ -8,7 +8,10 @@ import React from 'react'
             <div></div>
             <div></div>
             <div></div>
+            
+        Cargando 
         </div>
+        
         </div>
     )
 }

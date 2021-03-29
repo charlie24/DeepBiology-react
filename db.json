@@ -91,34 +91,29 @@
       "id": 18
     },
     {
-      "cuerpo": "muy didáctico",
-      "claseId": "3",
-      "id": 20
-    },
-    {
-      "cuerpo": "Wow! tan interesante y complejo ",
-      "claseId": "9",
-      "id": 24
-    },
-    {
       "cuerpo": "Increíble los diferentes músculos de este sistema",
       "claseId": "1",
       "id": 25
     },
     {
-      "cuerpo": "Curso interesante",
-      "claseId": "3",
-      "id": 26
-    },
-    {
-      "cuerpo": "Cromosomas",
-      "claseId": "8",
-      "id": 27
-    },
-    {
       "cuerpo": "Muy didáctico",
       "claseId": "12",
       "id": 28
+    },
+    {
+      "cuerpo": "comentario1",
+      "claseId": "5",
+      "id": 29
+    },
+    {
+      "cuerpo": "comentario2",
+      "claseId": "5",
+      "id": 30
+    },
+    {
+      "cuerpo": "Interesante tema",
+      "claseId": "8",
+      "id": 31
     }
   ]
 }

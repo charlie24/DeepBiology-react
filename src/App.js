@@ -14,8 +14,9 @@ function App() {
     <Navbar/>
     <Switch>
    
-    <Route  exact path="/" component={Home}></Route>
-    <Route exact path="/clases/:id" component={Clase}></Route>
+    {/* <Route  exact path="/" component={Home}></Route> */}
+    <Route  exact path="/" component={Clase}></Route>
+    {/* <Route exact path="/clases/:id" component={Clase}></Route> */}
     </Switch>
     </BrowserRouter>
     

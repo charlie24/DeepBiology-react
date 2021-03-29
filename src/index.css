@@ -73,3 +73,6 @@ code {
   width: 100%;
   height: 100vh;
 }
+.buscador::placeholder{
+color:rgb(130, 130, 130);
+}
