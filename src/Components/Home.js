@@ -33,7 +33,7 @@ const  Home=()=> {
            
             <div className="input-group  mb-4 float-right">
                 <input type="text" className="form-control col-4 offset-8 buscador" 
-                placeholder="Busca una clase..." 
+                placeholder="Busca una clase" 
                 style={{borderRadius:"19px", padding:"11px 19px",width:'350px',
                 background:'#ECECEC',border:'none'}}
                 onChange={e=>setWord(e.target.value)} >
